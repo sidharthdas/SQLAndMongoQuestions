@@ -3,10 +3,10 @@
 # SQL:
 
 -> JOINS:
-  -> INNER JOIN : Common between tables
-  -> LEFT JOIN : Common + left
-  -> RIGHT JOIN : Common + right
-  -> OUTER JOIN : All
+  1.  INNER JOIN : Common between tables
+  2.  LEFT JOIN : Common + left
+  3.  RIGHT JOIN : Common + right
+  4.  OUTER JOIN : All
 
   Simple join query:
   ```
