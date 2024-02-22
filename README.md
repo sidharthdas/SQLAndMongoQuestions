@@ -16,9 +16,9 @@
   ```
 
 -> DELETE, DROP & TRUNCATE:
-  -> DELETE: Delete one or more row.
-  -> DROP: This will delete the whole table and schema
-  -> TRUNCATE: This will remove all the data from the table only 
+  1.  DELETE: Delete one or more row.
+  2.  DROP: This will delete the whole table and schema
+  3.  TRUNCATE: This will remove all the data from the table only 
 
 -> Second Highest Salary Query: 
   ```
